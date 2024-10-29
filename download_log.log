@@ -1,0 +1,126 @@
+2024-10-01 16:33:12,313 - Accessing URL: https://www.kpa.co.ke/Pages/14DaysList.aspx?View={20888d2b-23c8-43a0-9cc6-a169bbb389c2}&SortField=Created&SortDir=Desc
+2024-10-01 16:33:19,078 - Processing file: Archives - 14 Days List
+2024-10-01 16:33:19,080 - Date parsing error for Archives - 14 Days List: time data 'Archives - 14 Days List' does not match format '%d %b-%Y'
+2024-10-01 16:33:19,080 - Processing file: Archives
+2024-10-01 16:33:19,080 - Date parsing error for Archives: time data 'Archives' does not match format '%d %b-%Y'
+2024-10-01 16:33:19,080 - Processing file: MOMBASA 14 DAY LIST FROM  30 SEP-2024
+2024-10-01 16:33:19,080 - Parsed datetime: 2024-09-30 00:00:00
+2024-10-01 16:33:19,080 - Found recent upload for yesterday: 2024-09-30 00:00:00
+2024-10-01 16:33:19,080 - Processing file: MOMBASA 14 DAY LIST FROM  29 SEP-2024
+2024-10-01 16:33:19,080 - Parsed datetime: 2024-09-29 00:00:00
+2024-10-01 16:33:19,080 - Processing file: MOMBASA 14 DAY LIST FROM  28 SEP-2024
+2024-10-01 16:33:19,080 - Parsed datetime: 2024-09-28 00:00:00
+2024-10-01 16:33:19,080 - Processing file: MOMBASA 14 DAY LIST FROM  27 SEP-2024
+2024-10-01 16:33:19,081 - Parsed datetime: 2024-09-27 00:00:00
+2024-10-01 16:33:19,081 - Processing file: MOMBASA 14 DAY LIST FROM  26 SEP-2024
+2024-10-01 16:33:19,081 - Parsed datetime: 2024-09-26 00:00:00
+2024-10-01 16:33:19,081 - Processing file: MOMBASA 14 DAY LIST FROM  25 SEP-2024
+2024-10-01 16:33:19,081 - Parsed datetime: 2024-09-25 00:00:00
+2024-10-01 16:33:19,081 - Processing file: MOMBASA 14 DAY LIST FROM  24 SEP-2024
+2024-10-01 16:33:19,081 - Parsed datetime: 2024-09-24 00:00:00
+2024-10-01 16:33:19,081 - Processing file: MOMBASA 14 DAY LIST FROM  23 SEP-2024
+2024-10-01 16:33:19,081 - Parsed datetime: 2024-09-23 00:00:00
+2024-10-01 16:33:19,081 - Processing file: MOMBASA 14 DAY LIST FROM  22 SEP-2024
+2024-10-01 16:33:19,081 - Parsed datetime: 2024-09-22 00:00:00
+2024-10-01 16:33:19,081 - Processing file: MOMBASA 14 DAY LIST FROM  21 SEP-2024
+2024-10-01 16:33:19,081 - Parsed datetime: 2024-09-21 00:00:00
+2024-10-01 16:33:19,081 - Processing file: MOMBASA 14 DAY LIST FROM  20 SEP-2024
+2024-10-01 16:33:19,081 - Parsed datetime: 2024-09-20 00:00:00
+2024-10-01 16:33:19,081 - Processing file: MOMBASA 14 DAY LIST FROM  19 SEP-2024
+2024-10-01 16:33:19,081 - Parsed datetime: 2024-09-19 00:00:00
+2024-10-01 16:33:19,081 - Processing file: MOMBASA 14 DAY LIST FROM  18 SEP-2024.
+2024-10-01 16:33:19,081 - Date parsing error for MOMBASA 14 DAY LIST FROM  18 SEP-2024.: unconverted data remains: .
+2024-10-01 16:33:19,081 - Processing file: MOMBASA 14 DAY LIST FROM  17 SEP-2024.
+2024-10-01 16:33:19,081 - Date parsing error for MOMBASA 14 DAY LIST FROM  17 SEP-2024.: unconverted data remains: .
+2024-10-01 16:33:19,082 - Processing file: MOMBASA 14 DAY LIST FROM  16 SEP-2024
+2024-10-01 16:33:19,082 - Parsed datetime: 2024-09-16 00:00:00
+2024-10-01 16:33:19,082 - Processing file: MOMBASA 14 DAY LIST FROM  15 SEP-2024
+2024-10-01 16:33:19,082 - Parsed datetime: 2024-09-15 00:00:00
+2024-10-01 16:33:19,082 - Processing file: MOMBASA 14 DAY LIST FROM  14 SEP-2024.
+2024-10-01 16:33:19,082 - Date parsing error for MOMBASA 14 DAY LIST FROM  14 SEP-2024.: unconverted data remains: .
+2024-10-01 16:33:19,082 - Processing file: MOMBASA 14 DAY LIST FROM  13 SEP-2024
+2024-10-01 16:33:19,082 - Parsed datetime: 2024-09-13 00:00:00
+2024-10-01 16:33:19,082 - Processing file: MOMBASA 14 DAY LIST FROM  12 SEP-2024
+2024-10-01 16:33:19,082 - Parsed datetime: 2024-09-12 00:00:00
+2024-10-01 16:33:19,082 - Processing file: MOMBASA 14 DAY LIST FROM  11 SEP-2024
+2024-10-01 16:33:19,082 - Parsed datetime: 2024-09-11 00:00:00
+2024-10-01 16:33:19,082 - Processing file: MOMBASA 14 DAY LIST FROM  10 SEP-2024_
+2024-10-01 16:33:19,082 - Date parsing error for MOMBASA 14 DAY LIST FROM  10 SEP-2024_: unconverted data remains: _
+2024-10-01 16:33:19,082 - Processing file: MOMBASA 14 DAY LIST FROM  09 SEP-2024
+2024-10-01 16:33:19,082 - Parsed datetime: 2024-09-09 00:00:00
+2024-10-01 16:33:19,082 - Processing file: MOMBASA 14 DAY LIST FROM  08 SEP-2024
+2024-10-01 16:33:19,082 - Parsed datetime: 2024-09-08 00:00:00
+2024-10-01 16:33:19,082 - Processing file: MOMBASA 14 DAY LIST FROM  07 SEP-2024
+2024-10-01 16:33:19,082 - Parsed datetime: 2024-09-07 00:00:00
+2024-10-01 16:33:19,082 - Processing file: MOMBASA 14 DAY LIST FROM  06 SEP-2024
+2024-10-01 16:33:19,083 - Parsed datetime: 2024-09-06 00:00:00
+2024-10-01 16:33:19,083 - Processing file: MOMBASA 14 DAY LIST FROM  05 SEP-2024
+2024-10-01 16:33:19,083 - Parsed datetime: 2024-09-05 00:00:00
+2024-10-01 16:33:19,083 - Processing file: MOMBASA 14 DAY LIST FROM  04 SEP-2024
+2024-10-01 16:33:19,083 - Parsed datetime: 2024-09-04 00:00:00
+2024-10-01 16:33:19,083 - Processing file: MOMBASA 14 DAY LIST FROM  03 SEP-2024
+2024-10-01 16:33:19,083 - Parsed datetime: 2024-09-03 00:00:00
+2024-10-01 16:33:20,144 - Downloaded: MOMBASA 14 DAY LIST FROM  30 SEP-2024 from https://www.kpa.co.ke/14%20days%20List/MOMBASA%2014%20DAY%20LIST%20FROM%20%2030%20SEP-2024.xlsx
+2024-10-01 16:36:42,196 - Accessing URL: https://www.kpa.co.ke/Pages/14DaysList.aspx?View={20888d2b-23c8-43a0-9cc6-a169bbb389c2}&SortField=Created&SortDir=Desc
+2024-10-01 16:36:48,976 - Processing file: Archives - 14 Days List
+2024-10-01 16:36:48,977 - Date parsing error for Archives - 14 Days List: time data 'Archives - 14 Days List' does not match format '%d %b-%Y'
+2024-10-01 16:36:48,977 - Processing file: Archives
+2024-10-01 16:36:48,977 - Date parsing error for Archives: time data 'Archives' does not match format '%d %b-%Y'
+2024-10-01 16:36:48,977 - Processing file: MOMBASA 14 DAY LIST FROM  30 SEP-2024
+2024-10-01 16:36:48,977 - Parsed datetime: 2024-09-30 00:00:00
+2024-10-01 16:36:48,977 - Found recent upload for yesterday: 2024-09-30 00:00:00
+2024-10-01 16:36:48,977 - Processing file: MOMBASA 14 DAY LIST FROM  29 SEP-2024
+2024-10-01 16:36:48,977 - Parsed datetime: 2024-09-29 00:00:00
+2024-10-01 16:36:48,977 - Processing file: MOMBASA 14 DAY LIST FROM  28 SEP-2024
+2024-10-01 16:36:48,977 - Parsed datetime: 2024-09-28 00:00:00
+2024-10-01 16:36:48,977 - Processing file: MOMBASA 14 DAY LIST FROM  27 SEP-2024
+2024-10-01 16:36:48,978 - Parsed datetime: 2024-09-27 00:00:00
+2024-10-01 16:36:48,978 - Processing file: MOMBASA 14 DAY LIST FROM  26 SEP-2024
+2024-10-01 16:36:48,978 - Parsed datetime: 2024-09-26 00:00:00
+2024-10-01 16:36:48,978 - Processing file: MOMBASA 14 DAY LIST FROM  25 SEP-2024
+2024-10-01 16:36:48,978 - Parsed datetime: 2024-09-25 00:00:00
+2024-10-01 16:36:48,978 - Processing file: MOMBASA 14 DAY LIST FROM  24 SEP-2024
+2024-10-01 16:36:48,978 - Parsed datetime: 2024-09-24 00:00:00
+2024-10-01 16:36:48,978 - Processing file: MOMBASA 14 DAY LIST FROM  23 SEP-2024
+2024-10-01 16:36:48,978 - Parsed datetime: 2024-09-23 00:00:00
+2024-10-01 16:36:48,978 - Processing file: MOMBASA 14 DAY LIST FROM  22 SEP-2024
+2024-10-01 16:36:48,978 - Parsed datetime: 2024-09-22 00:00:00
+2024-10-01 16:36:48,978 - Processing file: MOMBASA 14 DAY LIST FROM  21 SEP-2024
+2024-10-01 16:36:48,978 - Parsed datetime: 2024-09-21 00:00:00
+2024-10-01 16:36:48,978 - Processing file: MOMBASA 14 DAY LIST FROM  20 SEP-2024
+2024-10-01 16:36:48,978 - Parsed datetime: 2024-09-20 00:00:00
+2024-10-01 16:36:48,978 - Processing file: MOMBASA 14 DAY LIST FROM  19 SEP-2024
+2024-10-01 16:36:48,978 - Parsed datetime: 2024-09-19 00:00:00
+2024-10-01 16:36:48,978 - Processing file: MOMBASA 14 DAY LIST FROM  18 SEP-2024.
+2024-10-01 16:36:48,978 - Date parsing error for MOMBASA 14 DAY LIST FROM  18 SEP-2024.: unconverted data remains: .
+2024-10-01 16:36:48,978 - Processing file: MOMBASA 14 DAY LIST FROM  17 SEP-2024.
+2024-10-01 16:36:48,978 - Date parsing error for MOMBASA 14 DAY LIST FROM  17 SEP-2024.: unconverted data remains: .
+2024-10-01 16:36:48,979 - Processing file: MOMBASA 14 DAY LIST FROM  16 SEP-2024
+2024-10-01 16:36:48,979 - Parsed datetime: 2024-09-16 00:00:00
+2024-10-01 16:36:48,979 - Processing file: MOMBASA 14 DAY LIST FROM  15 SEP-2024
+2024-10-01 16:36:48,979 - Parsed datetime: 2024-09-15 00:00:00
+2024-10-01 16:36:48,979 - Processing file: MOMBASA 14 DAY LIST FROM  14 SEP-2024.
+2024-10-01 16:36:48,979 - Date parsing error for MOMBASA 14 DAY LIST FROM  14 SEP-2024.: unconverted data remains: .
+2024-10-01 16:36:48,979 - Processing file: MOMBASA 14 DAY LIST FROM  13 SEP-2024
+2024-10-01 16:36:48,979 - Parsed datetime: 2024-09-13 00:00:00
+2024-10-01 16:36:48,979 - Processing file: MOMBASA 14 DAY LIST FROM  12 SEP-2024
+2024-10-01 16:36:48,979 - Parsed datetime: 2024-09-12 00:00:00
+2024-10-01 16:36:48,979 - Processing file: MOMBASA 14 DAY LIST FROM  11 SEP-2024
+2024-10-01 16:36:48,979 - Parsed datetime: 2024-09-11 00:00:00
+2024-10-01 16:36:48,979 - Processing file: MOMBASA 14 DAY LIST FROM  10 SEP-2024_
+2024-10-01 16:36:48,979 - Date parsing error for MOMBASA 14 DAY LIST FROM  10 SEP-2024_: unconverted data remains: _
+2024-10-01 16:36:48,979 - Processing file: MOMBASA 14 DAY LIST FROM  09 SEP-2024
+2024-10-01 16:36:48,979 - Parsed datetime: 2024-09-09 00:00:00
+2024-10-01 16:36:48,979 - Processing file: MOMBASA 14 DAY LIST FROM  08 SEP-2024
+2024-10-01 16:36:48,979 - Parsed datetime: 2024-09-08 00:00:00
+2024-10-01 16:36:48,979 - Processing file: MOMBASA 14 DAY LIST FROM  07 SEP-2024
+2024-10-01 16:36:48,979 - Parsed datetime: 2024-09-07 00:00:00
+2024-10-01 16:36:48,979 - Processing file: MOMBASA 14 DAY LIST FROM  06 SEP-2024
+2024-10-01 16:36:48,980 - Parsed datetime: 2024-09-06 00:00:00
+2024-10-01 16:36:48,980 - Processing file: MOMBASA 14 DAY LIST FROM  05 SEP-2024
+2024-10-01 16:36:48,980 - Parsed datetime: 2024-09-05 00:00:00
+2024-10-01 16:36:48,980 - Processing file: MOMBASA 14 DAY LIST FROM  04 SEP-2024
+2024-10-01 16:36:48,980 - Parsed datetime: 2024-09-04 00:00:00
+2024-10-01 16:36:48,980 - Processing file: MOMBASA 14 DAY LIST FROM  03 SEP-2024
+2024-10-01 16:36:48,980 - Parsed datetime: 2024-09-03 00:00:00
+2024-10-01 16:36:48,980 - Skipped (already exists): MOMBASA 14 DAY LIST FROM  30 SEP-2024
